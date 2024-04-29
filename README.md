@@ -1,2 +1,2 @@
-# Bot_A
-Just a discord bot with random functions (it has computer vision too)
+# Bot_A (With-computer-vision)
+Everything is in the title.
